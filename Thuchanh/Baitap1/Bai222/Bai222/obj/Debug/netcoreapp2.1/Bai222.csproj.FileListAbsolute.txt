@@ -1,0 +1,11 @@
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\bin\Debug\netcoreapp2.1\Bai222.deps.json
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\bin\Debug\netcoreapp2.1\Bai222.runtimeconfig.json
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\bin\Debug\netcoreapp2.1\Bai222.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\bin\Debug\netcoreapp2.1\Bai222.dll
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\bin\Debug\netcoreapp2.1\Bai222.pdb
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\obj\Debug\netcoreapp2.1\Bai222.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\obj\Debug\netcoreapp2.1\Bai222.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\obj\Debug\netcoreapp2.1\Bai222.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\obj\Debug\netcoreapp2.1\Bai222.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\obj\Debug\netcoreapp2.1\Bai222.dll
+E:\Học hành\Codegym\Module_2\Thuchanh\Baitap1\Bai222\Bai222\obj\Debug\netcoreapp2.1\Bai222.pdb
