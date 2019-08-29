@@ -1,0 +1,17 @@
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\MSTest.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\MSTest.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\MSTest.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\MSTest.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\MSTest.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\Unitest.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\bin\Debug\netcoreapp2.1\Unitest.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\obj\Debug\netcoreapp2.1\MSTest.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\obj\Debug\netcoreapp2.1\MSTest.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\obj\Debug\netcoreapp2.1\MSTest.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\obj\Debug\netcoreapp2.1\MSTest.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\obj\Debug\netcoreapp2.1\MSTest.csproj.CopyComplete
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\obj\Debug\netcoreapp2.1\MSTest.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Unitest\MSTest\obj\Debug\netcoreapp2.1\MSTest.pdb

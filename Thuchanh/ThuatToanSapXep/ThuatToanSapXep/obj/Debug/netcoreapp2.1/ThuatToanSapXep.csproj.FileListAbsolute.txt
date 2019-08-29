@@ -1,0 +1,11 @@
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\bin\Debug\netcoreapp2.1\ThuatToanSapXep.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\bin\Debug\netcoreapp2.1\ThuatToanSapXep.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\bin\Debug\netcoreapp2.1\ThuatToanSapXep.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\bin\Debug\netcoreapp2.1\ThuatToanSapXep.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\bin\Debug\netcoreapp2.1\ThuatToanSapXep.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\obj\Debug\netcoreapp2.1\ThuatToanSapXep.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\obj\Debug\netcoreapp2.1\ThuatToanSapXep.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\obj\Debug\netcoreapp2.1\ThuatToanSapXep.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\obj\Debug\netcoreapp2.1\ThuatToanSapXep.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\obj\Debug\netcoreapp2.1\ThuatToanSapXep.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ThuatToanSapXep\ThuatToanSapXep\obj\Debug\netcoreapp2.1\ThuatToanSapXep.pdb

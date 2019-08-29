@@ -1,0 +1,11 @@
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\bin\Debug\netcoreapp2.1\OPP.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\bin\Debug\netcoreapp2.1\OPP.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\bin\Debug\netcoreapp2.1\OPP.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\bin\Debug\netcoreapp2.1\OPP.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\bin\Debug\netcoreapp2.1\OPP.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\obj\Debug\netcoreapp2.1\OPP.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\obj\Debug\netcoreapp2.1\OPP.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\obj\Debug\netcoreapp2.1\OPP.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\obj\Debug\netcoreapp2.1\OPP.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\obj\Debug\netcoreapp2.1\OPP.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\OPP\OPP\obj\Debug\netcoreapp2.1\OPP.pdb

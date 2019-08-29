@@ -1,0 +1,11 @@
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\bin\Debug\netcoreapp2.1\dequy.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\bin\Debug\netcoreapp2.1\dequy.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\bin\Debug\netcoreapp2.1\dequy.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\bin\Debug\netcoreapp2.1\dequy.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\bin\Debug\netcoreapp2.1\dequy.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\obj\Debug\netcoreapp2.1\dequy.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\obj\Debug\netcoreapp2.1\dequy.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\obj\Debug\netcoreapp2.1\dequy.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\obj\Debug\netcoreapp2.1\dequy.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\obj\Debug\netcoreapp2.1\dequy.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\dequy\dequy\obj\Debug\netcoreapp2.1\dequy.pdb

@@ -9,3 +9,14 @@ E:\Học hành\Codegym\Module_2\Thuchanh\Basic_ex\Basic\Basic\obj\Debug\netcorea
 E:\Học hành\Codegym\Module_2\Thuchanh\Basic_ex\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.AssemblyInfo.cs
 E:\Học hành\Codegym\Module_2\Thuchanh\Basic_ex\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.dll
 E:\Học hành\Codegym\Module_2\Thuchanh\Basic_ex\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\bin\Debug\netcoreapp2.1\Basic.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\bin\Debug\netcoreapp2.1\Basic.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\bin\Debug\netcoreapp2.1\Basic.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\bin\Debug\netcoreapp2.1\Basic.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\bin\Debug\netcoreapp2.1\Basic.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Basic\Basic\obj\Debug\netcoreapp2.1\Basic.pdb

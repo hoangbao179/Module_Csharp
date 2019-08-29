@@ -10,20 +10,24 @@ namespace Basic
         {
             Console.WriteLine("Input string");
             string str = Console.ReadLine();
+            Console.WriteLine(wordLength(str));
+            Console.ReadKey();
+        }
+        static string wordLength(string str)
+        {
             string[] arrListStr = str.Split(" ");
-            int numberfwords = 0;
+            int numberOfWords = 0;
             string str1 = "";
-            
             foreach (string i in arrListStr)
             {
-                if(i.Length> numberfwords)
+                if (i.Length > numberOfWords)
                 {
-                    numberfwords = i.Length;
+                    numberOfWords = i.Length;
                     str1 = i;
                 }
+
             }
-            Console.WriteLine(str1);
-            Console.ReadKey();
+            return str1;
         }
     }
 }

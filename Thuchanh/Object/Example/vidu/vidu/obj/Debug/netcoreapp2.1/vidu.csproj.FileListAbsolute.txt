@@ -1,0 +1,11 @@
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\bin\Debug\netcoreapp2.1\vidu.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\bin\Debug\netcoreapp2.1\vidu.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\bin\Debug\netcoreapp2.1\vidu.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\bin\Debug\netcoreapp2.1\vidu.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\bin\Debug\netcoreapp2.1\vidu.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\obj\Debug\netcoreapp2.1\vidu.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\obj\Debug\netcoreapp2.1\vidu.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\obj\Debug\netcoreapp2.1\vidu.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\obj\Debug\netcoreapp2.1\vidu.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\obj\Debug\netcoreapp2.1\vidu.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\vidu\vidu\obj\Debug\netcoreapp2.1\vidu.pdb

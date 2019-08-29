@@ -1,0 +1,11 @@
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\bin\Debug\netcoreapp2.1\tonghop.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\bin\Debug\netcoreapp2.1\tonghop.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\bin\Debug\netcoreapp2.1\tonghop.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\bin\Debug\netcoreapp2.1\tonghop.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\bin\Debug\netcoreapp2.1\tonghop.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\obj\Debug\netcoreapp2.1\tonghop.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\obj\Debug\netcoreapp2.1\tonghop.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\obj\Debug\netcoreapp2.1\tonghop.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\obj\Debug\netcoreapp2.1\tonghop.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\obj\Debug\netcoreapp2.1\tonghop.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\Object\Example\tonghop\tonghop\obj\Debug\netcoreapp2.1\tonghop.pdb

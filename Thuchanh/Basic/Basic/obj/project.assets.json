@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Học hành\\Codegym\\Module_2\\Thuchanh\\Basic_ex\\Basic\\Basic\\Basic.csproj",
+      "projectUniqueName": "E:\\Học hành\\Codegym\\Module_Csharp\\Thuchanh\\Basic\\Basic\\Basic.csproj",
       "projectName": "Basic",
-      "projectPath": "E:\\Học hành\\Codegym\\Module_2\\Thuchanh\\Basic_ex\\Basic\\Basic\\Basic.csproj",
+      "projectPath": "E:\\Học hành\\Codegym\\Module_Csharp\\Thuchanh\\Basic\\Basic\\Basic.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "E:\\Học hành\\Codegym\\Module_2\\Thuchanh\\Basic_ex\\Basic\\Basic\\obj\\",
+      "outputPath": "E:\\Học hành\\Codegym\\Module_Csharp\\Thuchanh\\Basic\\Basic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
