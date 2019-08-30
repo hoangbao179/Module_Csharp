@@ -1,0 +1,3 @@
+Tổng giá trị là : 21
+Các số chẵn: 
+ 8 2 4 6 Dãy số: 1 2 4 6 8

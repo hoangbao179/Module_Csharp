@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>vidu.NgoaiLe1</StartupObject>
+    <StartupObject>ReadFile_WriteFile.BaiTap1.InputOutput</StartupObject>
   </PropertyGroup>
 
 </Project>

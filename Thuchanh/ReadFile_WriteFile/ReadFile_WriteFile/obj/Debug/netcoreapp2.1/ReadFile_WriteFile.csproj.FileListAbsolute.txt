@@ -1,0 +1,11 @@
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\bin\Debug\netcoreapp2.1\ReadFile_WriteFile.deps.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\bin\Debug\netcoreapp2.1\ReadFile_WriteFile.runtimeconfig.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\bin\Debug\netcoreapp2.1\ReadFile_WriteFile.runtimeconfig.dev.json
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\bin\Debug\netcoreapp2.1\ReadFile_WriteFile.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\bin\Debug\netcoreapp2.1\ReadFile_WriteFile.pdb
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\obj\Debug\netcoreapp2.1\ReadFile_WriteFile.csprojAssemblyReference.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\obj\Debug\netcoreapp2.1\ReadFile_WriteFile.csproj.CoreCompileInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\obj\Debug\netcoreapp2.1\ReadFile_WriteFile.AssemblyInfoInputs.cache
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\obj\Debug\netcoreapp2.1\ReadFile_WriteFile.AssemblyInfo.cs
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\obj\Debug\netcoreapp2.1\ReadFile_WriteFile.dll
+E:\Học hành\Codegym\Module_Csharp\Thuchanh\ReadFile_WriteFile\ReadFile_WriteFile\obj\Debug\netcoreapp2.1\ReadFile_WriteFile.pdb
