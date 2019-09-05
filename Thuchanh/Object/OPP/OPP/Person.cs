@@ -8,11 +8,11 @@ namespace OPP
         public class Human
         {
             private int age;
-            public void setAge(int num)
+            public void SetAge(int num)
             {
                 age = num;
             }
-            public int getAge()
+            public int GetAge()
             {
                 return age;
             }
@@ -30,7 +30,7 @@ namespace OPP
             }
             public void ShowAge()
             {
-                Console.WriteLine("My age is: {0} years old", getAge());
+                Console.WriteLine("My age is: {0} years old", GetAge());
             }
             public override void Hello()
             {
@@ -52,12 +52,12 @@ namespace OPP
                     Human human = new Human();
                     human.Hello();
                     Student student = new Student();
-                    student.setAge(21);
+                    student.SetAge(21);
                     student.Hello();
                     student.ShowAge();
                     Teacher teacher = new Teacher();
                     teacher.Hello();
-                    teacher.setAge(30);
+                    teacher.SetAge(30);
                     teacher.Explain();
 
         

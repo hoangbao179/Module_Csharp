@@ -26,7 +26,7 @@ namespace ReadFile_WriteFile.BaiTap1
 
         public static void WriteArray(int amount, int[,] Array)
         {
-            FileStream file = new FileStream($"E:\\Học hành\\Codegym\\Module_Csharp\\Filelog\\Vidulog\\ArrInput.txt", FileMode.Create);
+            FileStream file = new FileStream($"E:/Học hành/Codegym/Module_Csharp/Filelog/Vidulog/ArrInput.txt", FileMode.Create);
             using (StreamWriter writer = new StreamWriter(file))
             {
                 writer.WriteLine(amount);

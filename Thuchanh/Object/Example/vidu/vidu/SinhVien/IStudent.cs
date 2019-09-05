@@ -4,7 +4,7 @@ using System.Text;
 
 namespace vidu.SinhVien
 {
-    public interface IStudentMark
+    public interface IStudent
     {
         void DisPlay();
     }
